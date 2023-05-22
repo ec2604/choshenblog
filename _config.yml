@@ -5,7 +5,6 @@ author: Era Choshen
 description: Very occasional blogs
 
 # Build settings
-markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
 plugins:
